@@ -9,12 +9,11 @@ I received my PhD in Computer Science from the Technical University of Valencia 
 Prior to this, my master’s thesis completed at the Arab American University - Palestine, where I developed an Arabic plagiarism detection system for research articles. In general, my research interests focus on developing machine learning models for various NLP tasks, with a particular focus on figurative languages detection (irony, satire, etc.) and hate speech (e.g. misogynistic content).
 
 
-- Email: bilalhgm__at_gmai1_got_com
-
-
 Outside work, I enjoy running and playing beach/indoor volleyball whenever I get a chance.
 
 ---
+- Email: bilalhgm__at_gmai1_got_com
+
 <br>
 
 
