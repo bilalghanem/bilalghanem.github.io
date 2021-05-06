@@ -11,7 +11,7 @@ Prior to this, my master’s thesis completed at the Arab American University - 
 - Email: bilalhgm__at_gmai1_got_com
 
 
-Outside work, I enjoy running and playing beach/indoor volleyball whenever I get a chance.
+Outside work, I enjoy (literally) running and playing beach/indoor volleyball whenever I get a chance.
 
 ---
 <br>
