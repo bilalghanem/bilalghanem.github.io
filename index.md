@@ -12,7 +12,7 @@ Prior to this, my master’s thesis completed at the Arab American University - 
 Outside work, I enjoy running and playing beach/indoor volleyball whenever I get a chance.
 
 ---
-- Email: bilalhgm__at_gmai1_got_com
+- Email: bghanem__at_ualberta_dot_ca
 
 <br>
 
