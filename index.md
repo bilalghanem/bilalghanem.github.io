@@ -15,7 +15,7 @@ Outside work, I enjoy running and playing beach/indoor volleyball whenever I get
 
 To get my e-mail, ask Python for help:
 ```
-"@".join(['ac.atreblau', 'menahgb'])
+"@".join(['ac.atreblau', 'menahgb'])[::-1]
 ```
 <br>
 
