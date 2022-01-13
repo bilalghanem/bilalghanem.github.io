@@ -13,9 +13,8 @@ Outside work, I enjoy running and playing beach/indoor volleyball whenever I get
 
 ---
 
-To get my email, ask `Python` for help:
 ```
-"@".join(['ac.atreblau', 'menahgb'])[::-1]
+"@".join(['bghanem', 'ualberta.ca'])
 ```
 <br>
 
