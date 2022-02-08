@@ -17,6 +17,8 @@ Outside work, I enjoy running and playing beach/indoor volleyball whenever I get
 "@".join(['bghanem', 'ualberta.ca'])
 
 ```
+If you're interested in chatting with me about your research problem or any other topic, please use this link to setup a meeting: [Meet me!](https://calendly.com/bilalghanem/research-help?month=2022-02&date=2022-02-08)
+
 <br>
 
 
