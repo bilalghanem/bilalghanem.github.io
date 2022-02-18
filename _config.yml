@@ -11,5 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://scholar.google.es/citations?user=mjrzZZcAAAAJ&hl=en">Google Scholar</a>
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0 #theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 google_analytics: UA-162797263-1 # your Google Analytics tracking ID here
