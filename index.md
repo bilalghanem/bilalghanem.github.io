@@ -14,7 +14,7 @@ Outside work, I enjoy running (inspired by [Simone Paolo Ponzetto](https://www.u
 ---
 
 ```
-"@".join(['bilal.ghanem', 'gartner.com'])
+"@".join(['bilalhgm', 'gmail.com'])
 ```
 If you're interested in chatting with me about your research problem or any other topic, please use this link to setup a meeting: [Meet me!](https://calendly.com/bilalhgm/30min)
 
