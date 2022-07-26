@@ -3,7 +3,7 @@
 
 I’m a Sr Principal, Quantitative Analytics and Data Science in the TalentNeuron Team, Gartner. Currently, I am working on applying SOTA NLP techniques to analyze and provide insights on the world's job posts.
 
-I’m a PostDoc researcher in the Department of Computer Science at the University of Alberta, working under the supervision of [Dr. Alona Fyshe](http://webdocs.cs.ualberta.ca/~alona/) and [Dr. Carrie Demmans Epp](http://www.cdemmansepp.com/). Currently, I am working on question generation for educational purposes, where I am studying the generation of questions that can assess specific reading comprehension skills.
+<!-- I’m a PostDoc researcher in the Department of Computer Science at the University of Alberta, working under the supervision of [Dr. Alona Fyshe](http://webdocs.cs.ualberta.ca/~alona/) and [Dr. Carrie Demmans Epp](http://www.cdemmansepp.com/). Currently, I am working on question generation for educational purposes, where I am studying the generation of questions that can assess specific reading comprehension skills. -->
 <br>
 
 I received my PhD in Computer Science from the Technical University of Valencia - Spain. During my PhD I worked on the detection of "Information Disorder", with a particular focus on figurative language detection (irony, satire, etc.), hate speech (e.g. misogynistic content), and fake news (e.g. propaganda). Also, I worked on profiling online users that spread false content. My PhD thesis is available [here](https://riunet.upv.es/bitstream/handle/10251/158570/Ghanem%20-%20On%20the%20detection%20of%20false%20information%3A%20from%20rumors%20to%20fake%20news.pdf?sequence=4). In the last few months of my PhD, I started working as a Research Scientist at [Symanto Research](https://www.symanto.com/).
