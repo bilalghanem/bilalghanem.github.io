@@ -1,7 +1,7 @@
 <br><br><br>
 ## About me
 
-I’m a Sr Principal, Quantitative Analytics and Data Science in the [TalentNeuron](https://www.gartner.com/en/human-resources/research/talentneuron) Team, Gartner. Currently, I am working on applying SOTA NLP techniques to analyze and provide insights on the world's job posts.
+I’m a Sr Principal, Quantitative Analytics and Data Science in the [TalentNeuron](https://www.gartner.com/en/human-resources/research/talentneuron) Team, Gartner. Currently, I am working on applying state-of-the-art NLP techniques to analyze and provide insights on the world's job posts.
 
 <!-- I’m a PostDoc researcher in the Department of Computer Science at the University of Alberta, working under the supervision of [Dr. Alona Fyshe](http://webdocs.cs.ualberta.ca/~alona/) and [Dr. Carrie Demmans Epp](http://www.cdemmansepp.com/). Currently, I am working on question generation for educational purposes, where I am studying the generation of questions that can assess specific reading comprehension skills. -->
 <!-- <br> -->
